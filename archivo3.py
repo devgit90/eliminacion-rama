@@ -1,1 +1,2 @@
-print('Hola Mundo desde python desde 3')
+print('Hola Mundo desde python desde 3 para revisar git stage')
+console.log('Algo')...
